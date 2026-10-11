@@ -23,7 +23,7 @@ export default function PublicNavbar() {
               <Heart className="h-5 w-5 text-white" fill="white" />
             </div>
             <span className="text-lg font-bold text-gray-900">
-              Health<span className="text-primary-600">Care+</span>
+              Medi<span className="text-primary-600">Connect</span>
             </span>
           </Link>
 

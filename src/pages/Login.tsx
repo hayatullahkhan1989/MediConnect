@@ -27,7 +27,7 @@ export default function Login() {
             <Heart className="h-7 w-7 text-white" fill="white" />
           </div>
           <h1 className="text-2xl font-bold text-gray-900">
-            Health<span className="text-primary-600">Care+</span>
+            Medi<span className="text-primary-600">Connect</span>
           </h1>
           <p className="mt-2 text-sm text-gray-600">Choose how you'd like to continue</p>
         </div>

@@ -64,7 +64,7 @@ interface AppState {
 
 const AppContext = createContext<AppState | undefined>(undefined);
 
-const STORAGE_KEY = 'healthcare-plus-data';
+const STORAGE_KEY = 'mediconnect-data';
 
 interface StoredData {
   currentUser: User | null;
@@ -80,7 +80,7 @@ interface StoredData {
 
 function loadData(): StoredData {
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
+    const raw = localStorage.getItem(STORAGE_KEY) || localStorage.getItem('healthcare-plus-data');
     if (raw) {
       const parsed = JSON.parse(raw) as StoredData;
       return {

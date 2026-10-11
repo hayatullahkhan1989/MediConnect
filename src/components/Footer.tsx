@@ -12,7 +12,7 @@ export default function Footer() {
                 <Heart className="h-5 w-5 text-white" fill="white" />
               </div>
               <span className="text-lg font-bold text-white">
-                Health<span className="text-primary-400">Care+</span>
+                Medi<span className="text-primary-400">Connect</span>
               </span>
             </div>
             <p className="text-sm text-gray-400 leading-relaxed">
@@ -65,14 +65,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-primary-400 shrink-0" />
-                <span>support@healthcareplus.com</span>
+                <span>support@mediconnect.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} HealthCare+. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} MediConnect. All rights reserved.</p>
         </div>
       </div>
     </footer>

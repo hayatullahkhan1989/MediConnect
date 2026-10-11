@@ -19,7 +19,7 @@ export default function About() {
     <div className="bg-gray-50 min-h-screen">
       <div className="bg-gradient-to-r from-primary-600 to-teal-600 py-12">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h1 className="text-3xl font-bold text-white">About HealthCare+</h1>
+          <h1 className="text-3xl font-bold text-white">About MediConnect</h1>
           <p className="mt-2 text-primary-50">Dedicated to making quality healthcare accessible to all</p>
         </div>
       </div>
@@ -35,7 +35,7 @@ export default function About() {
               </div>
               <h2 className="text-3xl font-bold text-gray-900">Transforming Healthcare Through Technology</h2>
               <p className="mt-4 text-gray-600 leading-relaxed">
-                HealthCare+ was founded with a simple goal: to bridge the gap between patients and quality healthcare. We believe everyone deserves access to excellent medical care, and our platform makes that possible.
+                MediConnect was founded with a simple goal: to bridge the gap between patients and quality healthcare. We believe everyone deserves access to excellent medical care, and our platform makes that possible.
               </p>
               <p className="mt-4 text-gray-600 leading-relaxed">
                 From booking appointments to managing medical records, we provide a seamless experience that puts patients first. Our network of experienced doctors and modern facilities ensures you receive the best care possible.

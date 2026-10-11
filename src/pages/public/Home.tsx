@@ -155,7 +155,7 @@ export default function Home() {
       <section className="py-16 lg:py-24 bg-white">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900">Why Choose HealthCare+?</h2>
+            <h2 className="text-3xl font-bold text-gray-900">Why Choose MediConnect?</h2>
             <p className="mt-3 text-gray-600">We put patients first in everything we do</p>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -176,7 +176,7 @@ export default function Home() {
       <section className="py-16 bg-gradient-to-r from-primary-600 to-teal-600">
         <div className="mx-auto max-w-4xl px-4 text-center">
           <h2 className="text-3xl font-bold text-white">Ready to Take Control of Your Health?</h2>
-          <p className="mt-4 text-primary-50 text-lg">Join thousands of patients who trust HealthCare+ for their medical needs.</p>
+          <p className="mt-4 text-primary-50 text-lg">Join thousands of patients who trust MediConnect for their medical needs.</p>
           <button
             onClick={() => navigate('/login')}
             className="mt-8 inline-flex items-center gap-2 rounded-lg bg-white px-7 py-3 text-base font-semibold text-primary-700 shadow-lg hover:shadow-xl transition-all hover:scale-105"

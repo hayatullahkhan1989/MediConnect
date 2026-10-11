@@ -106,7 +106,7 @@ export const seedUsers: User[] = [
     id: 'admin1',
     name: 'Admin Hayat',
     role: 'admin',
-    email: 'admin@healthcareplus.com',
+    email: 'admin@mediconnect.com',
     phone: '+91 98765 99999',
     active: true,
   },

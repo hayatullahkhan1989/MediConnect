@@ -32,7 +32,7 @@ export default function Welcome() {
           <div className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-primary-600 shadow-lg mb-4">
             <Heart className="h-7 w-7 text-white" fill="white" />
           </div>
-          <h1 className="text-2xl font-bold text-gray-900">Welcome to HealthCare+</h1>
+          <h1 className="text-2xl font-bold text-gray-900">Welcome to MediConnect</h1>
           <p className="mt-2 text-sm text-gray-600">
             You're signing in as a <span className="font-semibold text-primary-600">{roleLabel[role]}</span>
           </p>

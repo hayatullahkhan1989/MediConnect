@@ -50,7 +50,7 @@ export default function Contact() {
                 <Mail className="h-6 w-6" />
               </div>
               <h3 className="font-semibold text-gray-900">Email Us</h3>
-              <p className="mt-1 text-sm text-gray-600">support@healthcareplus.com<br />We reply within 24 hours</p>
+              <p className="mt-1 text-sm text-gray-600">support@mediconnect.com<br />We reply within 24 hours</p>
             </div>
           </div>
 

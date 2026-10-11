@@ -56,7 +56,7 @@ export default function DashboardShell({ navItems, children, role }: DashboardSh
             <Heart className="h-4 w-4 text-white" fill="white" />
           </div>
           <span className="text-base font-bold text-gray-900">
-            Health<span className="text-primary-600">Care+</span>
+            Medi<span className="text-primary-600">Connect</span>
           </span>
         </div>
         <div className="px-3 py-4">
